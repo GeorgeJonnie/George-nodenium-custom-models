@@ -1,0 +1,97 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/firework_star"
+        },
+        "entries": [
+            {
+                "threshold": 0,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/firework_star",
+                    "tints": [
+                        {
+                            "type": "minecraft:constant",
+                            "value": -1
+                        },
+                        {
+                            "type": "minecraft:firework",
+                            "default": -7697782
+                        }
+                    ]
+                }  
+            },
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/custom/easter_egg_0",
+                    "tints": [
+                        {
+                            "type": "minecraft:constant",
+                            "value": -1
+                        },
+                        {
+                            "type": "minecraft:firework",
+                            "default": -7697782
+                        }
+                    ]
+                }  
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/custom/easter_egg_1",
+                    "tints": [
+                        {
+                            "type": "minecraft:constant",
+                            "value": -1
+                        },
+                        {
+                            "type": "minecraft:firework",
+                            "default": -7697782
+                        }
+                    ]
+                }  
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/custom/easter_egg_2",
+                    "tints": [
+                        {
+                            "type": "minecraft:constant",
+                            "value": -1
+                        },
+                        {
+                            "type": "minecraft:firework",
+                            "default": -7697782
+                        }
+                    ]
+                }  
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/custom/easter_egg_3",
+                    "tints": [
+                        {
+                            "type": "minecraft:constant",
+                            "value": -1
+                        },
+                        {
+                            "type": "minecraft:firework",
+                            "default": -7697782
+                        }
+                    ]
+                }  
+            }
+        ]
+    }
+}
