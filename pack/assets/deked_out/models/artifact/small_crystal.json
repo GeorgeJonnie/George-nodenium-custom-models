@@ -2,7 +2,7 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "deked_out:item/artifact/small_amethyst"
+		"1": "deked_out:item/artifact/small_crystal"
 	},
 	"elements": [
 		{

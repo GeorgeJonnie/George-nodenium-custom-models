@@ -2,9 +2,9 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "deked_out:item/artifact/test_tube_wide",
-		"4": "deked_out:item/artifact/test_tube_wide_liquid",
-		"particle": "deked_out:item/artifact/test_tube_wide"
+		"2": "deked_out:item/artifact/potion",
+		"4": "deked_out:item/artifact/potion_liquid",
+		"particle": "deked_out:item/artifact/potion"
 	},
 	"elements": [
 		{

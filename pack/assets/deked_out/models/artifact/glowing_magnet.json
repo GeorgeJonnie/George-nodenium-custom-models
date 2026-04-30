@@ -3,9 +3,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "deked_out:item/artifact/epic_magnet",
-		"1": "deked_out:item/artifact/epic_magnet_glow",
-		"particle": "deked_out:item/artifact/epic_magnet"
+		"0": "deked_out:item/artifact/glowing_magnet",
+		"1": "deked_out:item/artifact/glowing_magnet_glow",
+		"particle": "deked_out:item/artifact/glowing_magnet"
 	},
 	"elements": [
 		{
