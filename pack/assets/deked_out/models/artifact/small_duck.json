@@ -87,6 +87,9 @@
 		},
 		"head": {
 			"translation": [0, 12.25, 0]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0]
 		}
 	}
 }

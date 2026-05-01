@@ -291,13 +291,15 @@
 		"gui": {
 			"rotation": [30, -135, 0],
 			"translation": [0, -0.5, 0],
-			"scale": [0.625, 0.625, 0.625]
+			"scale": [0.515, 0.515, 0.515]
 		},
 		"head": {
 			"translation": [0, 15.25, -0.25]
 		},
 		"fixed": {
-			"scale": [0.5, 0.5, 0.5]
+			"rotation": [0, 90, 0],
+			"translation": [0, -3.25, 0],
+			"scale": [0.75, 0.75, 0.75]
 		}
 	},
 	"groups": [
