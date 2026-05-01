@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "nodenium:item/shoulder_mount_camera",
-		"particle": "nodenium:item/shoulder_mount_camera"
+		"2": "deked_out:item/artifact/shoulder_mount_camera",
+		"particle": "deked_out:item/artifact/shoulder_mount_camera"
 	},
 	"elements": [
 		{
