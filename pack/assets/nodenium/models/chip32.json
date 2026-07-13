@@ -2,7 +2,7 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "chip32",
+		"0": "nodenium:item/chip32",
 		"particle": "chip32"
 	},
 	"elements": [
@@ -24,10 +24,10 @@
 			"to": [10.5, 2.3, 10.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 2.3, 6.5]},
 			"faces": {
-				"north": {"uv": [0, 2, 6, 2], "texture": "#missing"},
-				"east": {"uv": [0, 2, 6, 2], "texture": "#missing"},
-				"south": {"uv": [0, 2, 6, 2], "texture": "#missing"},
-				"west": {"uv": [0, 2, 6, 2], "texture": "#missing"},
+				"north": {"uv": [0, 2, 6, 2], "texture": "#0"},
+				"east": {"uv": [0, 2, 6, 2], "texture": "#0"},
+				"south": {"uv": [0, 2, 6, 2], "texture": "#0"},
+				"west": {"uv": [0, 2, 6, 2], "texture": "#0"},
 				"up": {"uv": [0, 8, 8, 16], "texture": "#0"}
 			}
 		},
@@ -36,10 +36,10 @@
 			"to": [10.5, 2.1, 10.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 2.1, 6.5]},
 			"faces": {
-				"north": {"uv": [0, 2, 6, 2], "texture": "#missing"},
-				"east": {"uv": [0, 2, 6, 2], "texture": "#missing"},
-				"south": {"uv": [0, 2, 6, 2], "texture": "#missing"},
-				"west": {"uv": [0, 2, 6, 2], "texture": "#missing"},
+				"north": {"uv": [0, 2, 6, 2], "texture": "#0"},
+				"east": {"uv": [0, 2, 6, 2], "texture": "#0"},
+				"south": {"uv": [0, 2, 6, 2], "texture": "#0"},
+				"west": {"uv": [0, 2, 6, 2], "texture": "#0"},
 				"up": {"uv": [8, 8, 16, 16], "texture": "#0"}
 			}
 		}
