@@ -2,7 +2,7 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/texture",
+		"0": "nodenium:item/chip64",
 		"particle": "block/texture"
 	},
 	"elements": [
