@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "nodenium:item/chip16",
-		"particle": "block/texture"
+		"particle": "chip16"
 	},
 	"elements": [
 		{
@@ -56,7 +56,7 @@
 			"scale": [0.375, 0.375, 0.375]
 		},
 		"firstperson_righthand": {
-			"rotation": [80, 45, 0],
+			"rotation": [80, 180, 0],
 			"translation": [-2.25, 3.75, 4.25],
 			"scale": [0.4, 0.4, 0.4]
 		},
