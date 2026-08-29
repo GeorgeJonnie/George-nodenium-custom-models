@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "deked_out:item/sculk_body_spray_2"
-  }
-}

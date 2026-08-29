@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "deked_out:item/scavengers_eye_3"
-  }
-}
