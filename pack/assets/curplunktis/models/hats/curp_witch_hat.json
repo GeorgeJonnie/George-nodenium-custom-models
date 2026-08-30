@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "georgejonnie:item/hats/curp_witch_hat",
-		"particle": "georgejonnie:item/hats/curp_witch_hat"
+		"0": "curplunktis:item/hats/curp_witch_hat",
+		"particle": "curplunktis:item/hats/curp_witch_hat"
 	},
 	"elements": [
 		{
