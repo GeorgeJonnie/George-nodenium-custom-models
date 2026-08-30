@@ -1,0 +1,56 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "chef_rat:item/hats/cigarette",
+		"particle": "chef_rat:item/hats/cigarette"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 4],
+			"to": [8, 1, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 4]},
+			"faces": {
+				"north": {"uv": [2, 2, 3, 3], "texture": "#0"},
+				"east": {"uv": [0, 0, 9, 1], "texture": "#0"},
+				"south": {"uv": [2, 3, 3, 4], "texture": "#0"},
+				"west": {"uv": [0, 1, 9, 2], "texture": "#0"},
+				"up": {"uv": [1, 11, 0, 2], "texture": "#0"},
+				"down": {"uv": [2, 2, 1, 11], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [87, 0, 0],
+			"translation": [0, 1.25, 7.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-1, 0, 7.25]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 9, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [-1.5, 9, 0]
+		},
+		"ground": {
+			"translation": [0, 5, 0]
+		},
+		"gui": {
+			"rotation": [49, 35, 12],
+			"translation": [-2.75, 9.75, 0],
+			"scale": [2, 2, 2]
+		},
+		"head": {
+			"rotation": [-22.5, -22.5, 0],
+			"translation": [1.5, 0.5, -10.75]
+		},
+		"fixed": {
+			"translation": [1.25, 7.75, -2.75],
+			"scale": [2, 2, 2]
+		}
+	}
+}
