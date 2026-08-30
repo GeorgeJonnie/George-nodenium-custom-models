@@ -2,6 +2,6 @@
 {
     "model": {
         "type": "model",
-        "model": "chef_rat:hats/cigarette"
+        "model": "chef_ratt:hats/cigarette"
     }
 }
