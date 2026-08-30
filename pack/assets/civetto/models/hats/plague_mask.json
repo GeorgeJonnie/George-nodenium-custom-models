@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "civetto:item/hats/plague_mask_texture",
-		"particle": "civetto:item/hats/plague_mask_texture"
+		"0": "civetto:item/hats/plague_mask",
+		"particle": "civetto:item/hats/plague_mask"
 	},
 	"elements": [
 		{
